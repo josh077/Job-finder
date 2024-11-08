@@ -99,11 +99,6 @@ This is a job finder web application built using the MERN (MongoDB, Express.js, 
 
 **[Live Demo]((https://glittering-souffle-8e3568.netlify.app/about-us))**
 
-## Resources
-
-- **Stars:** 4 stars
-- **Watchers:** 1 watching
-- **Forks:** 3 forks
 
 ## Languages
 
