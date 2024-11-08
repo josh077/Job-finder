@@ -38,7 +38,7 @@ To run the MERN Stack Job Finder project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/mern-job-finder.git
+   https://github.com/josh077/Job-finder.git
    ```
    
 2. **Navigate to the project directory:**
