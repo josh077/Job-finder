@@ -32,7 +32,7 @@ export const handleFileUpload = async (uploadFile) => {
 
     try {
         const response = await axios.post(
-            "https://api.cloudinary.com/v1_1/dfq4ereto/image/upload/",
+            "https://api.cloudinary.com/v1_1/drmbzoxdg/image/upload/",
             formData
         );
         return response.secure_url;
