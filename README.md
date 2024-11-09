@@ -1,4 +1,4 @@
-# MERN Stack Job Finder
+# MERN Stack job-board-application
 
 This is a job finder web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to search for job listings, view job details, and apply for jobs directly through the platform.
 
@@ -38,7 +38,7 @@ To run the MERN Stack Job Finder project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/josh077/Job-finder.git
+   https://github.com/josh077/job-board-application.git
    ```
    
 2. **Navigate to the project directory:**
