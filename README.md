@@ -83,7 +83,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ## Contact
 
-For any inquiries or questions, please contact me <a href="Joshuabunty27@gmail.com">Here</a>
+For any inquiries or questions, please contact me <a href="mailto:joshuabunty27@gmail.com">here</a>
 .
 
 ## Acknowledgements
